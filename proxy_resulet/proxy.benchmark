@@ -1,0 +1,13 @@
+[2020-09-28 16:54:36] Insert 840000 records, size: 420.974MB, cost: 5.482s, throughput: 76.792M/s
+[2020-09-28 16:54:42] Insert 420000 records, size: 210.686MB, cost: 3.157s, throughput: 66.7361M/s
+[2020-09-28 16:54:45] Insert 40 records, size: 0.0199957MB, cost: 1942.84s, throughput: 1.0292e-05M/s
+[2020-09-28 17:27:08] Insert 200 records, size: 0.100093MB, cost: 78.86s, throughput: 0.00126925M/s
+[2020-09-28 17:28:26] Insert 200 records, size: 0.100093MB, cost: 6.933s, throughput: 0.0144372M/s
+[2020-09-28 17:28:33] Insert 420160 records, size: 210.35MB, cost: 346.773s, throughput: 0.606592M/s
+[2020-09-28 17:34:20] Insert 420000 records, size: 210.285MB, cost: 3.191s, throughput: 65.8995M/s
+[2020-09-28 17:34:23] Insert 420000 records, size: 210.288MB, cost: 3.164s, throughput: 66.4627M/s
+[2020-09-28 17:34:26] Insert 420000 records, size: 210.686MB, cost: 3.196s, throughput: 65.9217M/s
+[2020-09-28 17:34:30] Insert 420000 records, size: 210.686MB, cost: 13.064s, throughput: 16.1272M/s
+[2020-09-28 17:34:43] Insert 420000 records, size: 210.269MB, cost: 67.651s, throughput: 3.10815M/s
+[2020-09-28 17:35:50] Insert 420000 records, size: 210.285MB, cost: 3.005s, throughput: 69.9784M/s
+[2020-09-28 17:35:53] Insert 420000 records, size: 210.288MB, cost: 3.083s, throughput: 68.2089M/s

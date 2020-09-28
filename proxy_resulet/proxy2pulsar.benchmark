@@ -1,0 +1,5 @@
+[2020-09-28 16:54:36] Insert 1260000 records, size:630.843M, cost5.125s, throughput: 123.091M/s
+[2020-09-28 17:34:19] Insert 1260600 records, size:631.941M, cost3.911s, throughput: 161.58M/s
+[2020-09-28 17:34:29] Insert 1260000 records, size:631.259M, cost3.139s, throughput: 201.102M/s
+[2020-09-28 17:35:52] Insert 1260000 records, size:631.24M, cost12.929s, throughput: 48.8236M/s
+[2020-09-28 17:36:02] Insert 1260000 records, size:631.66M, cost13.037s, throughput: 48.4513M/s

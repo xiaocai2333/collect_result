@@ -1,0 +1,2 @@
+{"MsgLength":176245,"DurationInMilliseconds":9223372036854,"InsertTime":"2020-09-28T09:36:48.632605954Z","NumSince":176245,"Speed":0.000019108521188970773}
+{"MsgLength":1156553,"DurationInMilliseconds":210008,"InsertTime":"2020-09-28T09:40:18.640987931Z","NumSince":1332798,"Speed":5507.175425088691}
