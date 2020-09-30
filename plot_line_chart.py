@@ -7,8 +7,8 @@ result_file = "./results.txt"
 
 
 def plot_line_chart(x, y, label, title):
-    plt.plot(x, y, 'r--', label=label)
-    # plt.scatter(x, y)
+    # plt.plot(x, y, 'r--', label=label)
+    plt.scatter(x, y)
     plt.title(title)
     plt.xlabel('Time')
     plt.ylabel('Speed')
@@ -23,4 +23,7 @@ if __name__ == "__main__":
     line = f.readline()
     result_str = json.loads(line)
     for key in result_str:
-        plot_line_chart(result_str[key]["InsertTime"], result_str[key]["Speed"], "insert", key)
+        if key in ["query_node_insert", "reader_get_pulsar", "write_node_insert", "writer_get_pulsar"]:
+            plot_line_chart(result_str[key]["InsertTime"], result_str[key]["Speed"], "insert", key)
+        else:
+            plot_line_chart(result_str[key]["InsertTime"], result_str[key]["ThroughputInMB"], "insert", key)
